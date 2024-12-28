@@ -1,4 +1,4 @@
-# Claude Financial Data Analyst
+# Data Analyst
 
 ![hero](public/hero.png)
 
