@@ -1,4 +1,4 @@
 [tool.pyright]
 venvPath = "computer-use-demo"
-venv = ".vvenv"
+venv = ".venv"
 useLibraryCodeForTypes = false
